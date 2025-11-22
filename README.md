@@ -34,12 +34,6 @@ salary outcomes.
 5.  Evaluate performance metrics\
 6.  Interpret feature impact
 
-## 📁 Repository Structure
-
--   `notebooks/` → Analysis & model training\
--   `data/` → Raw and cleaned datasets\
--   `models/` → Saved model files\
--   `README.md` → Project documentation
 
 ## 🚀 Outcome
 
